@@ -32,10 +32,6 @@ super + F2
 super + F3
 	firefox
 
-#
-# config files
-#
-
 #BSPWM
 super + shift + F1
 	kitty -e micro ~/.config/bspwm/bspwmrc
